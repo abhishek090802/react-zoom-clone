@@ -1,0 +1,21 @@
+19:05
+
+Run this before runbning yarn react -app:
+yarn create-react-app youtube-clone --template typescript
+
+yarn restricted mode command:
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
+yarn install --ignore-engines
+
+
+api id:556361161
+
+serversecret:
+641fce7e218ee53bb32519242ec7c23e
+
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted 
+
+
+Firebase database:
+https://console.firebase.google.com/project/zoom-clone-a777e/firestore/data/~2Fmeetings~2Fmu7WBET8XtvTwpKvXpWm
